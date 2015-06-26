@@ -1,6 +1,18 @@
-<style>
 #myName {
-	text-align: left;
-	font-size: 50px;
+      text-align: center;
+      font-size: 80px;
+    }
+#projectundername {
+      text-align: center;
+      font-size: 36px;
+    }
+.row {
+
+      padding-top: 100px;
+     
+    }
+#contactheader {
+	text-align: center;
+	font-size: 20px;
 }
-</style>
+    
